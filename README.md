@@ -1,2 +1,2 @@
 # RACECAR-MN Student Repository
-This repository is designed for individuals using the MITLL RACECAR-MN, an educational robotics platform.  You can learn more about the RACECAR-MN [here](https://mitll-racecar-mn.readthedocs.io/en/latest/index.html).
+Program was created using Python integrated with a C#, Unity simulator. It directed a racecar to move autonomously with a series of states that utilized environmental data. The data was derived from emulated LIDAR, IMU, color camera, and depth sensor scans.
